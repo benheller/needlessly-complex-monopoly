@@ -2,7 +2,7 @@
 
 # Rules
 
-Those of us who love Monopoly love it dearly. It speaks to our competitive spirit with a persuasiveness and authority that remains unchallenged in the gaming world. But while Monopoly might have once provided a welcome distraction in post-depression America, the 2009 Housing Market Crash and the subsequent Occupy Wall Street movement have created new challenges that demand a more complex diversion. This variation on Hasbro's Monopoly[*](#notes) uses the standard board and is based on the same basic premise, but with some twists to bring it up to speed with the trials & tribulations we must brave in today's economy.
+Those of us who love Monopoly love it dearly. It speaks to our competitive spirit with a persuasiveness and authority that remains unchallenged in the gaming world. But while Monopoly might have once provided a welcome distraction in post-depression America, the 2009 Housing Market Crash and the subsequent Occupy Wall Street movement have created new challenges that demand a more complex diversion. This variation on Hasbro's Monopoly[\*](#notes) uses the standard board and is based on the same basic premise, but with some twists to bring it up to speed with the trials & tribulations we must brave in today's economy.
 
 * [Cash](#cash)
   + :moneybag: Supply
@@ -48,7 +48,7 @@ When a player lands on an unclaimed property, any other player may initiate an o
 Mortgaged properties which have reverted to the bank can be purchased by any player at any time, at either **face value or a higher value** through an open auction.
 
 ### :smiling_imp: Squatter's Rights
-Instead of engaging in the normal bidding process when landing on an unowned space, a player may choose to exercise his "squatter's rights" by remaining on the desired space until he has **skipped the number of turns equal to the leading digit of the price of the property plus one**. At the conclusion of the squatting period, the player is granted the property at no cost. Mortgaged properties remain mortgaged if moving from the bank to a squatter. A player **cannot voluntarily abandon his squat**. Any other player can break an attempted squat by landing on the property and initiating the standard bidding process.
+Instead of engaging in the normal bidding process when landing on an unowned space, a player may choose to exercise his "squatter's rights" by remaining on the desired space until he has **skipped the number of turns equal to the leading digit of the price of the property plus one**. At the conclusion of the squatting period, the player is granted the property at no cost. Mortgaged properties remain mortgaged if moving from the bank to a squatter. A player **cannot voluntarily abandon his squat**. Any other player can break an attempted squat by landing on the property and initiating the standard bidding process. Invoking squatter's rights to prolong the game and avoid certain death is contrary to the spirit of the rule. To enforce this, squatter's rights **cannot be invoked unless there are 4 or more players** in the game.
 > **Example:** A player can land on Boardwalk, priced at M̶400 and opt to skip his next 5 turns. He would receive Boardwalk on the start of his 6th turn.
 
 ### :airplane: Air Rights
@@ -147,7 +147,7 @@ Luxury Tax assessments are calculated as the greater of M̶100 or the sum of M̶
 
 ## Shots
 
-If the role of Player is filled by a multi-person team, **each team member** must consume the number of shots required of the Player. David Goldberg[**](#notes) has to drink *at least* one beer.
+If the role of Player is filled by a multi-person team, **each team member** must consume the number of shots required of the Player. David Goldberg[\*\*](#notes) has to drink *at least* one beer.
 
 ### :earth_americas: Locations
 A player must consume a shot if he lands on the space containing the **name of the state where he resides**, or:
@@ -171,6 +171,10 @@ A player landing on a utility may choose to substitute the consumption of shot(s
 
 ### :beers: Rent
 On all properties other than utilities, a player may substitute the consumption of shot(s) or other consideration in lieu of payment of rent at the discretion of the landlord.
+
+## Meta Rules
+
+1. No rule can ever be repealed. 
 
 
 ## Proposed Amendments
